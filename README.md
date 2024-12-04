@@ -44,7 +44,7 @@ We're excited to announce our plans to launch the **DeReview chain (`dviewd`)** 
 
 Be among the first to join us in this journey:
 
-- **[Buy DVW Token](#)**
+<!-- - **[Buy DVW Token](#)**
 
 ---
 
@@ -56,7 +56,7 @@ Be among the first to join us in this journey:
 
 ---
 
-© 2024 DeReview | **[Privacy Policy](#)** | **[Terms of Service](#)**
+© 2024 DeReview | **[Privacy Policy](#)** | **[Terms of Service](#)** -->
 
 ---
 
@@ -86,7 +86,7 @@ We encourage developers to contribute to DeReview and help us build a transparen
 4. **Commit Changes**: Make your changes and commit them with clear and descriptive messages.
 5. **Submit a Pull Request**: Push your branch to GitHub and open a pull request against the main repository.
 
-Please read our [Contributing Guidelines](#) and [Code of Conduct](#) before contributing.
+Please read our [Contributing Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
 
 ---
 
